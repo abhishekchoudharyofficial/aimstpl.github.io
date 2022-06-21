@@ -1,0 +1,32 @@
+.logo{
+    color: #92be2e;
+    width: 40%;
+    height: 15vh;
+    
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    .upper{
+        display: flex;
+        align-items: center;
+    }
+    .top{
+        height: .1rem;
+        width: 4.1rem;
+        background-color: #92be2e;
+        
+    }
+
+    .bottom{
+        height: .1rem;
+        width: 12.2rem;
+        background-color: #92be2e;
+    }
+
+    h2{
+         
+        
+    }
+}

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 2000 2000" style="enable-background:new 0 0 2000 2000;" xml:space="preserve">
+<style type="text/css">
+	.st0{stroke:#231F20;stroke-miterlimit:10;}
+	.st1{fill:#FFFFFF;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st2{fill:#92BC2F;}
+	.st3{fill:#FFFFFF;}
+	.st4{font-family:'LucidaBright';}
+	.st5{font-size:71px;}
+	.st6{fill:none;}
+	.st7{font-size:48px;}
+</style>
+<g id="Layer_4">
+	<polygon class="st0" points="0,0 0,0 0,0 0,0 	"/>
+	<rect x="354.19" y="484.91" class="st1" width="1190.03" height="1011.06"/>
+</g>
+<g id="Layer_1">
+</g>
+<g id="Layer_3">
+</g>
+<g id="Layer_2">
+</g>
+<g id="Layer_5">
+</g>
+<g id="Layer_6">
+	<g>
+		<ellipse class="st2" cx="925.84" cy="751.23" rx="63.36" ry="77.38"/>
+		<path class="st3" d="M987.13,751.06c0,41.14-27.24,74.49-60.84,74.49c-33.6,0-60.84-33.35-60.84-74.49
+			c0-42.73,34.39-73.93,60.03-74.48c0.3-0.01,0.56-0.01,0.82-0.01C952,676.71,987.13,707.84,987.13,751.06z"/>
+		<g>
+			<polygon class="st2" points="846.35,728.49 862.75,728.49 866.62,728.49 866.62,730.35 846.35,730.35 			"/>
+			<ellipse class="st2" cx="844.27" cy="729.79" rx="3.71" ry="3.39"/>
+		</g>
+		<g>
+			<polygon class="st2" points="819.78,777.11 858.39,777.11 867.48,777.11 867.48,778.97 819.78,778.97 			"/>
+			<ellipse class="st2" cx="814.89" cy="778.04" rx="6.78" ry="3.39"/>
+		</g>
+		<g>
+			<polygon class="st2" points="987.81,748.72 1018.97,748.72 1018.97,751.49 988.6,751.49 			"/>
+			<ellipse class="st2" cx="1021.9" cy="749.26" rx="5.66" ry="6.48"/>
+		</g>
+		<polygon class="st2" points="862.03,758.57 833.86,758.57 824.98,751.91 809.31,751.91 809.31,749.26 823.46,749.26 
+			826.64,749.26 835.34,755.79 862.96,755.79 		"/>
+		<ellipse class="st2" cx="801.52" cy="751.23" rx="9.27" ry="7.77"/>
+		<path class="st2" d="M925.09,759.37v64.48h4.29v-59.73l49.15,0.68c0,0,2.66,13.91-2.66,19c0,0,11.25-12.9,5.63-24.43H925.09z"/>
+		<path class="st2" d="M926.29,759.37v64.48h-4.14v-59.73l-47.44,0.68c0,0-2.57,13.91,2.57,19c0,0-10.86-12.9-5.43-24.43H926.29z"/>
+		<polygon class="st2" points="867.48,751.23 925.84,680.74 984.26,751.23 925.84,712.93 		"/>
+		<rect x="690.21" y="859.38" class="st2" width="177.68" height="8.51"/>
+		<text transform="matrix(0.8492 0 0 1 697.3413 944.4893)" class="st2 st4 st5">TECHNOLOGIES</text>
+		<rect x="762.7" y="880.15" class="st6" width="8.17" height="39.83"/>
+		<text transform="matrix(1 0 0 1 878.0425 880.1489)" class="st2 st4 st7">AIMS</text>
+		<rect x="1004.68" y="859.38" class="st2" width="164.13" height="8.51"/>
+		<rect x="693.23" y="961.05" class="st2" width="477.98" height="8.51"/>
+		<polygon class="st2" points="866.04,752.74 925.84,715.98 985.62,753.51 925.87,718.45 		"/>
+	</g>
+</g>
+</svg>
